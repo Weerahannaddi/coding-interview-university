@@ -259,7 +259,7 @@ Create a new branch so you can check items like this, just put an x in the brack
 
     ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
 
-1. Clone to your local repo:
+[X]2. Clone to your local repo:
 
     ```
     git clone git@github.com:<your_github_username>/coding-interview-university.git
@@ -269,7 +269,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     git fetch --all
     ```
 
-1. Mark all boxes with X after you completed your changes:
+[X]3. Mark all boxes with X after you completed your changes:
 
     ```
     git add .
